@@ -1,4 +1,4 @@
-# Accessible Tree
+# Accessible Trees
 
 This tool creates accessible trees in HTML.
 It automatically adds `aria-role="tree"` and `aria-role="treeitem"` to the relevant items.
